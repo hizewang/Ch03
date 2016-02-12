@@ -27,7 +27,7 @@ void draw() {
   println ("X: " +mouseX, "Y: " +mouseY);
 
   if (keyPressed == true) {
-    saveFrame("kielm_ch03-###.jpg");
+    saveFrame("ze_ch03-###.jpg");
   }
 }
 
